@@ -1,0 +1,39 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: blue;
+}
+
+h1{
+    font-family: 'Gill Sans', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3{
+    font-family: cursive;
+}
+
+h3{
+    color: indigo;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li{
+    color: maroon;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h2{
+    color: darkgreen;
+}
